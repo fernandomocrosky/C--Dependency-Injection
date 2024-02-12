@@ -32,3 +32,4 @@ E:\C#\ServicesExample\DIExample\obj\Debug\net8.0\DIExample.genruntimeconfig.cach
 E:\C#\ServicesExample\DIExample\obj\Debug\net8.0\ref\DIExample.dll
 E:\C#\ServicesExample\DIExample\bin\Debug\net8.0\ServiceContracts.dll
 E:\C#\ServicesExample\DIExample\bin\Debug\net8.0\ServiceContracts.pdb
+E:\C#\ServicesExample\DIExample\obj\Debug\net8.0\DIExample.sourcelink.json
