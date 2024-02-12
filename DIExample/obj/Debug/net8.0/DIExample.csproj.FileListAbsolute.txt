@@ -30,3 +30,5 @@ E:\C#\ServicesExample\DIExample\obj\Debug\net8.0\refint\DIExample.dll
 E:\C#\ServicesExample\DIExample\obj\Debug\net8.0\DIExample.pdb
 E:\C#\ServicesExample\DIExample\obj\Debug\net8.0\DIExample.genruntimeconfig.cache
 E:\C#\ServicesExample\DIExample\obj\Debug\net8.0\ref\DIExample.dll
+E:\C#\ServicesExample\DIExample\bin\Debug\net8.0\ServiceContracts.dll
+E:\C#\ServicesExample\DIExample\bin\Debug\net8.0\ServiceContracts.pdb

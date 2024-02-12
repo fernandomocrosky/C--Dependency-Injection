@@ -9,9 +9,9 @@ public class HomeController : Controller
 
     private readonly ICitiesService _citiesServices;
 
-    public HomeController()
+    public HomeController(ICitiesService citiesService)
     {
-        _citiesServices = new CitiesService();
+        _citiesServices = citiesService;
     }
 
     [Route("/")]
